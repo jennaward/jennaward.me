@@ -1,24 +1,24 @@
 body {
     width: 90%;
     margin: 10vw auto;
-    background-color: #533747;
+    background-color: #FDF5E6;
 }
 
 .heading {
     color: #86bbbd;
     font-family: 'Vidaloka', serif;
-    font-size: 8vw;
+    font-size: 6vw;
 }
 
-p {
-    color: #ffffff;
+.about {
+    color: #533747;
     font-family: 'Lato', sans-serif;
     font-size: 2vw;
     line-height: 1.5;
 }
 
 a {
-    color: #ffffff;
+    color: #533747;
     font-family: 'Vidaloka', serif;
     font-size: 2vw;
     text-decoration: none;
