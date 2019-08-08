@@ -1,20 +1,22 @@
 body {
     width: 90%;
     margin: 10vw auto;
-    background-color: #FDF5E6;
+    background-color: rgb(255, 255, 255);
 }
 
-.heading {
-    color: #86bbbd;
+.head img {
+    float: left;
+    width: 25%;
+    height: auto;
+    border-radius: 100%;
+}
+
+.head h1 {
+    float: left;
+    color: #DB7093;
     font-family: 'Vidaloka', serif;
     font-size: 6vw;
-}
-
-.about {
-    color: #533747;
-    font-family: 'Lato', sans-serif;
-    font-size: 2vw;
-    line-height: 1.5;
+    width: 35%;
 }
 
 a {
