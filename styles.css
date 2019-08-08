@@ -2,29 +2,26 @@ body {
     width: 90%;
     margin: 10vw auto;
     background-color: rgb(255, 255, 255);
-}
+} 
 
-.head img {
-    float: left;
-    width: 25%;
-    height: auto;
-    border-radius: 100%;
-}
-
-.head h1 {
-    float: left;
+.head h1{
+    position: relative;
     color: #DB7093;
     font-family: 'Vidaloka', serif;
     font-size: 6vw;
-    width: 35%;
+    width: 40%;
+}
+
+.link-group {
+    position: absolute;
 }
 
 a {
-    color: #533747;
+    color: #DB7093;
     font-family: 'Vidaloka', serif;
     font-size: 2vw;
     text-decoration: none;
-    padding: 100px;
+    padding: 25px;
 }
 
 .underline--magical {
