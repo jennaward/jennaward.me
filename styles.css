@@ -8,6 +8,11 @@ body {
     text-align: center;
 }
 
+img {
+    border-radius: 50%;
+    width: 25%;
+}
+
 .header {
     display: inline-block;
 }
@@ -21,7 +26,8 @@ body {
 
 p {
     font-family: 'Roboto', monospace;
-    color: #A1A2A4
+    color: #A1A2A4;
+    margin: 0px;
 }
 
 i {
