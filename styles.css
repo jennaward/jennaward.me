@@ -1,40 +1,37 @@
 body {
-    width: 90%;
+    width: 100%;
     margin: 10vw auto;
     background-color: #ffffff;
 } 
 
-.container {
-    display: flex;
-    flex-direction: row;
+.text-container {
+    text-align: center;
+}
+
+.header {
+    display: inline-block;
 }
 
 .header h1{
     color: #000000;
-    font-family: 'Roboto Mono', monospace;
-    font-size: 6vw;
-    width: 50%;
-    margin-bottom: 2%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 4vw;
 }
 
-img {
-    position: absolute;
-    right: 30%;
-    bottom: 45%;
-    width: 25%;
-    height: auto;
-    border-radius: 100%;
+p {
+    font-family: 'Roboto', monospace;
+    color: #A1A2A4
 }
 
-
-a {
-    color: #000000;
-    font-family: 'Roboto Mono', monospace;
+i {
     font-size: 2vw;
-    text-decoration: none;
-    padding: 25px;
+    padding: 10px;
+    color: #000000;
 }
 
-a:hover {
-    color: #DB7093;
+i:hover {
+    color: #A1A2A4;
 }
+
+
+
